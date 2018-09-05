@@ -41,6 +41,7 @@ const icons = {
   monero: 'monero',
   gnupg: 'gnupg',
   akroma: 'akroma',
+  pirl: 'pirl',
 }
 
 stories.add('ManagerApp', () => (
